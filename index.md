@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: swc
 venue: Sotware Carpentry workshop at Regeneron
-address: R77 Old Sawmill River Rd, Tarrytown, NY
+address: 777 Old Sawmill River Rd, Tarrytown, NY
 country: us
 language: en
 latlng: 41.078820,-73.822480
