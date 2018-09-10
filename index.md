@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: swc
-venue: Regeneron
-address: Regeneron - Tarrytown
+venue: Sotware Carpentry workshop at Regeneron
+address: R77 Old Sawmill River Rd, Tarrytown, NY
 country: us
 language: en
 latlng: 41.078820,-73.822480
@@ -11,7 +11,7 @@ humantime: 9:00 AM - 5:00 PM
 startdate: 2018-10-04
 enddate: 2018-10-05
 instructor: ["Sheldon McKay","Susan McClatchy"]
-helper: ["Regis james","Calvin Chen"]
+helper: ["Regis James","Calvin Chen"]
 email: ["sheldon.mckay@regeneron.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
