@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: swc
-venue: Sotware Carpentry at Regeneron
+venue: <img src="https://www.regeneron.com/sites/all/themes/regeneron_corporate/images/file.svg" style="width:75px"/> Sotware Carpentry at Regeneron
 address: 777 Old Sawmill River Rd, Tarrytown, NY
 country: us
 language: en
