@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: swc
-venue: Sotware Carpentry workshop at Regeneron
+venue: Sotware Carpentry at Regeneron
 address: 777 Old Sawmill River Rd, Tarrytown, NY
 country: us
 language: en
@@ -13,7 +13,7 @@ enddate: 2018-10-05
 instructor: ["Sheldon McKay","Susan McClatchy"]
 helper: ["Regis James","Calvin Chen"]
 email: ["sheldon.mckay@regeneron.com"]   
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:   https://pad.carpentries.org/2018-10-04-regeneron
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
