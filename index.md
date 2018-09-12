@@ -7,7 +7,7 @@ country: us
 language: en
 latlng: 41.078820,-73.822480
 humandate: Oct 4-5, 2018
-humantime: 9:00 AM - 5:00 PM
+humantime: 9:00 AM - 4:30 PM
 startdate: 2018-10-04
 enddate: 2018-10-05
 instructor: ["Sheldon McKay","Susan McClatchy"]
