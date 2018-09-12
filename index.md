@@ -45,7 +45,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   scrolling="auto">
 </iframe>
 {% endif %}
+<!--
 <img src="https://www.regeneron.com/sites/all/themes/regeneron_corporate/images/file.svg" style="width:150px"/>
+-->
 
 <h2 id="general">General Information</h2>
 
