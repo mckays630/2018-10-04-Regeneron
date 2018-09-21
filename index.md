@@ -11,7 +11,7 @@ humantime: 9:00 AM - 4:30 PM
 startdate: 2018-10-04
 enddate: 2018-10-05
 instructor: ["Sheldon McKay","Susan McClatchy"]
-helper: ["Regis James","Calvin Chen"]
+helper: ["Regis James","Calvin Chen","John Sikorski","Kevia Qu","Jonathan Kin Wei Leung","Christopher Foran","Dustin Lehmkuhl"]
 email: ["sheldon.mckay@regeneron.com"]   
 collaborative_notes:   https://pad.carpentries.org/2018-10-04-regeneron
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
