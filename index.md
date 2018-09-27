@@ -388,51 +388,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
-<div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatability
-           is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
-  <h3>Git</h3>
-  <p>
-    Git is a version control system that lets you track who made changes
-    to what when and has options for easily updating a shared or public
-    version of your code
-    on <a href="https://github.com/">github.com</a>. You will need a
-    <a href="https://help.github.com/articles/supported-browsers/">supported</a>
-    web browser (current versions of Chrome, Firefox or Safari,
-    or Internet Explorer version 9 or above).
-  </p>
-  <p>
-    You will need an account at <a href="https://github.com/">github.com</a>
-    for parts of the Git lesson. Basic GitHub accounts are free. We encourage
-    you to create a GitHub account if you don't have one already.
-    Please consider what personal information you'd like to reveal. For
-    example, you may want to review these
-    <a href="https://help.github.com/articles/keeping-your-email-address-private/">instructions
-    for keeping your email address private</a> provided at GitHub.
-  </p>
-
-  <div class="row">
-    <div class="col-md-4">
-      <h4 id="git-windows">Windows</h4>
-      <p>
-        Git should be installed on your computer as part of your Bash
-        install (described above).
-      </p>
-    </div>
-    <div class="col-md-4">
-      <h4 id="git-macosx">macOS</h4>
-Git can be installed via Anaconda (see Python section below)
-    </div>
-    <div class="col-md-4">
-      <h4 id="git-linux">Linux</h4>
-      <p>
-        If Git is not already available on your machine you can try to
-        install it via your distro's package manager. For Debian/Ubuntu run
-        <code>sudo apt-get install git</code> and for Fedora run
-        <code>sudo dnf install git</code>.
-      </p>
-    </div>
-  </div>
-</div> {% comment %} End of 'Git' section. {% endcomment %}
 
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
   <h3>Text Editor</h3>
@@ -586,6 +541,55 @@ Git can be installed via Anaconda (see Python section below)
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
+
+<div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatability
+           is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
+  <h3>Git</h3>
+  <p>
+    Git is a version control system that lets you track who made changes
+    to what when and has options for easily updating a shared or public
+    version of your code
+    on <a href="https://github.com/">github.com</a>. You will need a
+    <a href="https://help.github.com/articles/supported-browsers/">supported</a>
+    web browser (current versions of Chrome, Firefox or Safari,
+    or Internet Explorer version 9 or above).
+  </p>
+  <p>
+    You will need an account at <a href="https://github.com/">github.com</a>
+    for parts of the Git lesson. Basic GitHub accounts are free. We encourage
+    you to create a GitHub account if you don't have one already.
+    Please consider what personal information you'd like to reveal. For
+    example, you may want to review these
+    <a href="https://help.github.com/articles/keeping-your-email-address-private/">instructions
+    for keeping your email address private</a> provided at GitHub.
+  </p>
+
+  <div class="row">
+    <div class="col-md-4">
+      <h4 id="git-windows">Windows</h4>
+      <p>
+        Git should be installed on your computer as part of your Bash
+        install (described above).
+      </p>
+    </div>
+    <div class="col-md-4">
+      <h4 id="git-macosx">macOS</h4>
+Git can be installed via Anaconda (see Python section above)
+    </div>
+    <div class="col-md-4">
+      <h4 id="git-linux">Linux</h4>
+      <p>
+        If Git is not already available on your machine you can try to
+        install it via your distro's package manager. For Debian/Ubuntu run
+        <code>sudo apt-get install git</code> and for Fedora run
+        <code>sudo dnf install git</code>.
+      </p>
+    </div>
+  </div>
+</div> {% comment %} End of 'Git' section. {% endcomment %}
+
+{% comment %}
+
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
@@ -633,7 +637,7 @@ Git can be installed via Anaconda (see Python section below)
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
-{% comment %}
+
 <div id="vm">
   <h3>Virtual Machine</h3>
 
