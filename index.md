@@ -575,6 +575,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <div class="col-md-4">
       <h4 id="git-macosx">macOS</h4>
 Git can be installed via Anaconda (see Python section above)
+      <ol>
+        <li>Open a terminal window</li>
+        <li><pre>conda install git</pre></li>
+      </ol>
     </div>
     <div class="col-md-4">
       <h4 id="git-linux">Linux</h4>
