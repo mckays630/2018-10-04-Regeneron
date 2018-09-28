@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: swc
-venue: Sotware Carpentry at Regeneron
+venue: Software Carpentry at Regeneron
 address: 777 Old Sawmill River Rd, Tarrytown, NY
 country: us
 language: en
