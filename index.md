@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: swc
-venue: Sotware Carpentry at Regeneron
+venue: Software Carpentry at Regeneron
 address: 777 Old Sawmill River Rd, Tarrytown, NY
 country: us
 language: en
@@ -117,7 +117,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a Regeneron-configured Mac or Windows laptio (not a tablet, Chromebook, etc.) They should have a few specific software packages installed (listed
+  <strong>Requirements:</strong> Participants must bring a Regeneron-configured Mac or Windows laptop (not a tablet, Chromebook, etc.) They should have a few specific software packages installed (listed
   <a href="#setup">below</a>). They are also required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
