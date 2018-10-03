@@ -409,14 +409,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         nano is a basic editor and the default that instructors use in the workshop.
         It is installed along with Git.
       </p>
-      <p>
+<!--      <p>
         Others editors that you can use are
         <a href="https://notepad-plus-plus.org/">Notepad++</a> or
         <a href="https://www.sublimetext.com/">Sublime Text</a>.
         <strong>Be aware that you must
           add its installation directory to your system path.</strong>
         Please ask your instructor to help you do this.
-      </p>
+      </p> -->
     </div>
     <div class="col-md-4">
       <h4 id="editor-macosx">macOS</h4>
@@ -426,11 +426,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         for an example on how to open nano.
         It should be pre-installed.
       </p>
-      <p>
+<!--      <p>
         Others editors that you can use are
         <a href="https://www.barebones.com/products/textwrangler/">Text Wrangler</a> or
         <a href="https://www.sublimetext.com/">Sublime Text</a>.
-      </p>
+      </p> -->
     </div>
     <div class="col-md-4">
       <h4 id="editor-linux">Linux</h4>
